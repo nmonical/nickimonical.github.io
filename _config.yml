@@ -1,5 +1,5 @@
 title: Nicki Monical # your name (or website title) here
-logo: "/images/photo_cropped.jpg?raw=true" # your photo (or logo) here
+logo: "/images/photo_cropped.jpg?raw=true"{:width="50%"} # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, I'm Nicki, Analytics Program Manager by day, Grad student by night. Thanks for stopping by.
   <br><br>
