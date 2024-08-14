@@ -2,7 +2,7 @@
 
 ---
 
-### Western States 100 Top Performance Analysis
+### [Western States 100 Top Performance Analysis](/wser_top_100)
 
 [Project 1 Title](/sample_page)
 <img src="images/wser.jpg?raw=true"/>
