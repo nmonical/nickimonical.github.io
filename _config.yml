@@ -3,8 +3,6 @@ logo: "/images/file.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, I'm Nicki, full-time Analytics Program Manager, part time grad student. I am maintaining this portfolio as a way of applying the things I learn both in and out of school. Thanks for stopping by.
   <br><br>
-  With 15 years of data experience, I get the most satisfaction out of coming up with creative solutions for the most challenging problems. Just as I love exploring the world around me, every dataset is an adventure, full of hidden treasures.  
-  <br><br>
   <a href="https://www.linkedin.com/in/nicki-monical/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
