@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Western States 100 Top Performance Analysis
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
