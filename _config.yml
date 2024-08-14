@@ -2,7 +2,7 @@ title: Nicki Monical # your name (or website title) here
 logo: "/images/photo_cropped.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi, I'm Nicki, Analytics Program Manager, grad student, adventurer. I am maintaining this portfolio as a way of applying the things I learn both in and out of school. Thanks for stopping by.
-  <br><br>
+
   <a href="https://www.linkedin.com/in/nicki-monical/">View My LinkedIn Profile</a> 
   <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
