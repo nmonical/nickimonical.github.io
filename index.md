@@ -5,8 +5,10 @@
 ### Western States 100 Top Performance Analysis
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wser.jpg?raw=true"/>
+Photo Credit: Matt Trappe
 
+I scraped and transformed historical data from the Western States website. I then developed and applied a methodolgy which enabled direct comparisons of male and female performances across years.
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
