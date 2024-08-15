@@ -1,6 +1,6 @@
 ## Western States 100 Top Performance Analysis
 
-**Project description:** In this project I applied web scraping, data cleaning, data visualization, and data analysis skills to identify the top Western States 100 performances of all time. 
+_**Project description:** In this project I applied web scraping, data cleaning, data visualization, and data analysis skills to identify the top Western States 100 performances of all time._ 
 
 Each year, amidst the scenic backdrop of California's Sierra Nevada Mountains, the world's elite endurance runners converge in Olympic Valley to embark on a grueling 100-mile journey, the Western States Endurance Run. Dating back to 1978, this venerated trail race is a testament to human resilience, pushing athletes to their physical and mental limits. The race commences with a challenging snow-covered ascent, eventually leading runners through scorching canyons where temperatures soar to 100 degrees Fahrenheit. It's a relentless test of endurance, demanding unwavering determination, strategic pacing, and a touch of serendipity.
 
