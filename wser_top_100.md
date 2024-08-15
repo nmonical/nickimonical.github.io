@@ -2,6 +2,8 @@
 
 _**Project description:** In this project I applied web scraping, data cleaning, data visualization, and data analysis skills to identify the top Western States 100 performances of all time._ 
 
+<img src="images/wser.jpg?raw=true"/>
+
 Each year, amidst the scenic backdrop of California's Sierra Nevada Mountains, the world's elite endurance runners converge in Olympic Valley to embark on a grueling 100-mile journey, the Western States Endurance Run. Dating back to 1978, this venerated trail race is a testament to human resilience, pushing athletes to their physical and mental limits. The race commences with a challenging snow-covered ascent, eventually leading runners through scorching canyons where temperatures soar to 100 degrees Fahrenheit. It's a relentless test of endurance, demanding unwavering determination, strategic pacing, and a touch of serendipity.
 
 Since its inception, the WS100 has witnessed remarkable feats of athleticism from both men and women. However, due to a multitude of factors - physiological and otherwise - directly comparing race times across genders can be misleading. This analysis delves into the complexities of gender-based performance in ultramarathon running, seeking to establish a more equitable approach to evaluating and celebrating the most exceptional achievements in this sport. The goal is to create a gender-neutral record book that transcends the boundaries of gender, honoring the pinnacle of human endurance, regardless of biological sex.
