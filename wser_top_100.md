@@ -32,6 +32,7 @@ Although the male winning time is consistently faster than the female winning ti
 
 Females are more than 3x as likely to be considered extreme outliers than are males. And the female outliers tend to be even more extreme than the male outliers.
 
+**Top 10 Performances of All Time**
 <img src="images/wser_chart_6.jpg?raw=true"/>
 
 This analysis of the Western States Endurance Run (WS100) reveals the top 10 performances of all time, highlighting the remarkable achievements of both male and female athletes. Despite the overall dominance of male runners in the field, females hold a strong presence in the top 10, with Anita Ortiz's 2009 performance securing the top spot. Notably, Ann Trason appears twice in the top 10, though her 1995 run where she almost "beat the boys" is absent. This suggests weakness in the male field that year.
