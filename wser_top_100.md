@@ -28,7 +28,7 @@ Although the male winning time is consistently faster than the female winning ti
 
 <img src="images/wser_chart_5.jpg?raw=true"/>
 
-Females are more than 3x as likely to be considered extreme outliers than are males. And the female outliers tend to be more extreme than the male outliers.
+Females are more than 3x as likely to be considered extreme outliers than are males. And the female outliers tend to be even more extreme than the male outliers.
 
 <img src="images/wser_chart_6.jpg?raw=true"/>
 
