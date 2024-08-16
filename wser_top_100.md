@@ -20,7 +20,7 @@ To perform the analysis, I first explored the data to get a general understandin
 
 <img src="images/wser_chart_1.jpg?raw=true"/>
 
-The results are all within the expected bounds (~14 hours to 30 hours). The bimodal distribution is driven by the personal goal of many to finish within 24 hours (as well as a special award given to those who finish within this time).
+First, looking at the finishing time by gender. The results are all within the expected bounds (~14 hours to 30 hours). The bimodal distribution is driven by the personal goal of many to finish within 24 hours (as well as a special award given to those who finish within this time). There are many more males that complete the race than females. 
 
 <img src="images/wser_chart_2.jpg?raw=true"/>
 
@@ -28,7 +28,7 @@ Female participation increased gradually over the first 20 years of the race, bu
 
 <img src="images/wser_chart_3.jpg?raw=true"/>
 
-As expected, winning times for females (and males) have been getting faster over time, though there are fluctuations from year to year, likely due to course conditions as well as the caliber of the front runners in the field. It is interesting to note that in 1995 the top female time was almost the same as the top male time. This was during the period when female participation was still increasing. The small difference between male and female winning times suggests either a week male performance or a strong female performance. We can make this distinction using the gender-agnostic record book.
+As expected, winning times for females (and males) have been getting faster over time, though there are fluctuations from year to year, likely due to course conditions as well as the caliber of the front runners in the field. It is interesting to note that in 1995 the top female time was almost the same as the top male time. This was during the period when female participation was still growing. The small difference between male and female winning times in this year suggests either a week male performance or a strong female performance. The gender-agnostic record book will help us understand what drove this.
 
 <img src="images/wser_chart_4.jpg?raw=true"/>
 
@@ -36,17 +36,20 @@ Although the male winning time is consistently faster than the female winning ti
 
 <img src="images/wser_chart_5.jpg?raw=true"/>
 
-Females are more than 3x as likely to be considered extreme outliers than are males. And the female outliers tend to be even more extreme than the male outliers.
+Looking at just extreme outliers (those that ran at least 1.5x the inter-quartile range faster than the 25th percentile time by gender), females are more than 3x as likely to be exceptionally fast when compared to their peers. Not only are there more of them but the female outliers tend to be even more extreme than the male outliers.
+
+### Conclusion ###
 
 **Top 10 Performances of All Time**
 <img src="images/wser_chart_6.jpg?raw=true"/>
 
-This analysis of the Western States Endurance Run (WS100) reveals the top 10 performances of all time, highlighting the remarkable achievements of both male and female athletes. Despite the overall dominance of male runners in the field, females hold a strong presence in the top 10, with Anita Ortiz's 2009 performance securing the top spot. Notably, Ann Trason appears twice in the top 10, though her 1995 run where she almost "beat the boys" is absent. This suggests weakness in the male field that year.
+This analysis of the Western States Endurance Run (WS100) reveals the top 10 performances of all time, highlighting the remarkable achievements of both male and female athletes. Despite the overall dominance of male runners in the field, females hold a strong presence in the top 10, with Anita Ortiz's 2009 performance securing the top spot. Notably, Ann Trason appears twice in the top 10, though her 1995 run where she almost "beat the boys" is absent. This suggests that the small difference in times between the male winner and the female winner that year was in fact due to weakness in the male field.
 
-The top 3 performances of all time were achieved by female runners in the 2009 race, which was notable as there was a 2 year hiatus due to the cancellation of the 2008 race. Interestingly, Jim Walmsley's remarkable 2021 performance, which ranks as the fourth greatest of all time with this methodology, also followed the cancelled 2020 race.
+The top 3 performances of all time were achieved by female runners in the 2009 race. This was a notable race as there was a 2 year hiatus due to the cancellation of the 2008 race. Interestingly, Jim Walmsley's remarkable 2021 performance, which ranks as the fourth greatest of all time with this methodology, also followed the cancelled 2020 race.
 
-Perhaps it is physiology, psychology, or other factors driving this trend towards outstanding performances following cancelled races, or it could just be coincidence. What is clear is that since the early editions of the race we have seen an increase in female participation, and in turn increased competition. The fact that 8 of the top 10 performances were run by females says something about the potential for women in this sport. 
+Perhaps it is physiology, psychology, or other factors driving this trend towards outstanding performances following cancelled races, or it could just be coincidence. What is clear is that since the early editions of the race we have seen an increase in female participation, and in turn increased competition. The fact that 8 of the top 10 performances were run by females demonstrates the competitiveness and tenacity of women in this sport. 
 
+### Further Analysis ###
 
 Moving forward, I am keen to explore alternative methodologies for evaluating the most outstanding performances in ultramarathon history. It would be interesting to develop a bottom-up approach that incorporates factors such as race temperature and the strength of the competition, in contrast to the top-down approach employed in this analysis. Additionally, I am interested in analyzing male and female performances across various races and distances to identify any common trends. By expanding the scope of our investigation, we can gain a more comprehensive understanding of the factors that contribute to exceptional ultramarathon performances.
 
