@@ -1,6 +1,8 @@
 ## Western States 100 Top Performance Analysis
 
-_**Project description:** In this project I applied web scraping, data cleaning, data visualization, and data analysis skills to identify the top Western States 100 performances of all time._ 
+**Project description:** The objective of this project was to scrape results from the race website, process the data, and analyze it to generate a system of ranking the top performances of all time.
+
+_Skills: Python, Web Scraping, Data Cleaning, Data Visualization, Data Analysis._ 
 
 <img src="images/wser.jpg?raw=true"/>
 
