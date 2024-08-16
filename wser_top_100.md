@@ -4,13 +4,19 @@ _**Project description:** In this project I applied web scraping, data cleaning,
 
 <img src="images/wser.jpg?raw=true"/>
 
-Each year, amidst the scenic backdrop of California's Sierra Nevada Mountains, the world's elite endurance runners converge in Olympic Valley to embark on a grueling 100-mile journey, the Western States Endurance Run. Dating back to 1978, this venerated trail race is a testament to human resilience, pushing athletes to their physical and mental limits. The race commences with a challenging snow-covered ascent, eventually leading runners through scorching canyons where temperatures soar to 100 degrees Fahrenheit. It's a relentless test of endurance, demanding unwavering determination, strategic pacing, and a touch of serendipity.
+Each year, amidst the scenic backdrop of California's Sierra Nevada Mountains, the world's elite endurance runners converge in Olympic Valley to embark on a grueling 100-mile journey, the Western States Endurance Run. Dating back to 1978, this venerated trail race is a testament to human resilience, pushing athletes to their physical and mental limits. In some years, the race commences with a challenging snow-covered ascent, and in some years this leads to scorching canyons where temperatures can soar to over 110 degrees Fahrenheit. It's a relentless test of endurance, demanding unwavering determination, strategic pacing, and a lot of serendipity.
 
-Since its inception, the WS100 has witnessed remarkable feats of athleticism from both men and women. However, due to a multitude of factors - physiological and otherwise - directly comparing race times across genders can be misleading. This analysis delves into the complexities of gender-based performance in ultramarathon running, seeking to establish a more equitable approach to evaluating and celebrating the most exceptional achievements in this sport. The goal is to create a gender-neutral record book that transcends the boundaries of gender, honoring the pinnacle of human endurance, regardless of biological sex.
+Since its inception, the WS100 has witnessed remarkable feats of athleticism from both men and women. However, due to a multitude of factors - physiological and otherwise - directly comparing race times across genders can be misleading. For this project I sought to to establish a more equitable approach to evaluating and celebrating the most exceptional achievements in this sport across the years. The goal was to create a gender-neutral record book that accounted for the range of course conditions that runners are exposed to from year to year.
 
-The data file was scraped from the WS100 website (https://www.wser.org/results/). The formatting of the results table changed from year to year so the data file needed considerable clean up to be useful. Other things such as missing values and inconsistent data types that needed to be addressed as well.
+### Data Collection ###
+
+Data for the analysis was scraped from the WS100 website (https://www.wser.org/results/). Finishing time and gender - the two key variables - were included along with other variables. Before the data could be analyzed, considerable data cleaning was necessary. Finishing time in seconds was also added to the final data set for ease of comparisons. In total there were 10,368 finishers between 1978 and 2023.
+
+### Methodology ###
 
 To perform the analysis, I first explored the data to get a general understanding of how male results compare to female results. In order to develop a gender agnostic record, and ultimately name the greatest performance of all time, I identified the male and female extreme outlier times (i.e. more than 1.5 times the inter-quartile range below the 25th percentile) by gender by year and rank these results according to distance from the 25th percentile. One assumption being made is that the caliber of both the male and female fields are consistent over time. Due to the nature of the entry process to Western States (mostly lottery-based), this should be a fair assumption. The other assumption is that the central tendancies in a given year are a representation of the difficulty of the race (due to snow, heat, course changes, etc.).
+
+### Data Analysis ###
 
 <img src="images/wser_chart_1.jpg?raw=true"/>
 
