@@ -4,8 +4,7 @@
 
 ### [Western States 100 Top Performance Analysis](/wser_top_100)
 
-<img src="images/wser.jpg?raw=true"/>
-Photo Credit: Matt Trappe
+The objective of this project was to scrape results from the race website, process the data, and analyze it to generate a system of ranking the top performances of all time.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
