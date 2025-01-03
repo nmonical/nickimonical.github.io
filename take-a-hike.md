@@ -2,13 +2,15 @@
 
 As an avid hiker and trail runner, I deeply value exploring new paths. However, the process of discovering new trails can be time-consuming and overwhelming. To streamline this process, I developed Take-A-Hike, a tool that leverages machine learning to recommend trails based on user preferences.
 
+<img src="images/take-a-hike-screenshot.jpg?raw=true"/>
+
 **Challenge:**
 
 Finding new trails to explore efficiently.
 
 **Solution:**
 
-Take-A-Hike utilizes a content-based learning algorithm to identify trails similar to a user's favorite. Key factors considered include distance, elevation gain, difficulty, rating, and various trail attributes (e.g., wildflowers, dog-friendliness). The tool provides a list of five recommended trails, offering both nationwide exploration options and the ability to filter by specific locations.
+[Take-A-Hike](https://take-a-hike.streamlit.app/) utilizes a content-based learning algorithm to identify trails similar to a user's favorite. Key factors considered include distance, elevation gain, difficulty, rating, and various trail attributes (e.g., wildflowers, dog-friendliness). The tool provides a list of five recommended trails, offering both nationwide exploration options and the ability to filter by specific locations.
 
 **Technology:**
 + **Machine Learning:** Content-based learning algorithm
