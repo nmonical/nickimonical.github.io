@@ -10,6 +10,7 @@ Finding new trails to explore efficiently.
 
 **Solution:**
 
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 [Take-A-Hike](https://take-a-hike.streamlit.app/) utilizes a content-based learning algorithm to identify trails similar to a user's favorite. Key factors considered include distance, elevation gain, difficulty, rating, and various trail attributes (e.g., wildflowers, dog-friendliness). The tool provides a list of five recommended trails, offering both nationwide exploration options and the ability to filter by specific locations.
 
 **Technology:**
